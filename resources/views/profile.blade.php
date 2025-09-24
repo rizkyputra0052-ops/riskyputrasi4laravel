@@ -7,8 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>home</h1>
-    <a href="about">home</a>
-    <a href="profile">home</a>
+    <h1>profile</h1>
+    <a href="about">about</a>
+    <a href="home">home</a>
 </body>
 </html>
